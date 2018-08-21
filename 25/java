@@ -1,0 +1,7 @@
+String: Any grouping of words or numbers surrounded by single quotes: ' ... ' or double quotes " ... ".
+
+Number: Any number, including numbers with decimals, without quotes: 4, 8, 1516, 23.42.
+
+Boolean: This is always one of two words. Either true or false, with no quotations.
+
+Let's review: a string is any grouping of words, a number's a number, and a boolean is a ghostly halloween costume. Or no, that's false! It's either true or false.
